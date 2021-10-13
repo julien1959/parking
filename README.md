@@ -2,7 +2,7 @@
 
 Application de disponibilité de place de parking. 
 
-Technologies : Java, Angular et MySql
+Technologies : Java, Spring Boot, Angular et MySql
 
 - Réalisation de l’interface graphique avec **Angular**.
 - Création d’une **API REST** avec **Spring Boot** qui consommera les données d'une **API Open data**.
